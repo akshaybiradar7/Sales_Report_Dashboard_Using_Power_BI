@@ -1,3 +1,4 @@
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 # Sales_Report_Dashboard(Using_Power_BI)
 
 This repository contains a comprehensive Power BI dashboard designed for data visualization and business intelligence. The project utilizes a structured internal data model and spans multiple report pages containing distinct visual elements to facilitate data-driven decision-making. 
